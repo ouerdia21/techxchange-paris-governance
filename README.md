@@ -4,7 +4,7 @@
 
 <img src="assets/agentic-bootcamp-hexagen.png" alt="TechXchange Paris Bootcamp" />
 
-<h2>TechXchange AI Governance - Bois-Colombes - 19 March 2026</h2>
+<h2>Business Partner Enabelment AI Governance - Bois-Colombes - ? April 2026</h2>
 
 </div>
 
@@ -14,7 +14,7 @@ To help you explore IBM technology and discuss AI governance best practices, we 
 
 
 1. Agent Ops Lab
-2. Monitoring & Guardrails Lab
+
 
 ## First - Participant prerequisite
 
@@ -27,10 +27,9 @@ Please share the email address used to create your IBM ID with the TechXchange t
 
 ## Choose your Lab and get ready for an exciting session!
 
-### 🛡️ [Lab 1: Agent Ops](agent-ops/README.md)
+### 🛡️ [Lab 2: Agent Ops](agent-ops/README.md)
 As organizations increasingly adopt agentic platforms, they face new challenges in managing and governing these systems. In this Lab, you will step into the role of an AI Ops engineer at a large financial institution that has recently implemented IBM watsonx Orchestrate. You will review the integration with IBM watsonx.governance to help ensure smooth platform operations while addressing potential risks and governance issues that arise from its use.
 
-### ⛑️ [Lab 2: Guardrails and Monitoring](monitoring-and-guardrails/README.md)
-In this Lab, María, an AI Engineer working for ABC Health, is building an AI application to help employees answer questions about their benefits. However, she is concerned about multiple potential risks related to Generative AI, including harmful content generation, hallucinations, toxicity, and confidence scoring. She is also looking for ways to automate the evaluation of different LLMs, prompts, and techniques.
+
 
 
