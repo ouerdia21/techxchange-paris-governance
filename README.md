@@ -2,7 +2,7 @@
 
 <h1>Orange Business Enablement : watsonx orchesrate & watsonx governance</h1>
 
-<img src="assets/agentic-bootcamp-hexagen.png" alt="TechXchange Paris Bootcamp" />
+<img src="assets/agentic-bootcamp.png" alt="TechXchange Paris Bootcamp" />
 
 <h2>Business Partner Enablement AI Governance - Bois-Colombes - ? April 2026</h2>
 
@@ -26,6 +26,9 @@ If you do not have an IBM ID, please create one before attending any Lab using t
 Please share the email address used to create your IBM ID with the TechXchange team before starting any Lab so we can grant you access to the environment.
 
 ## Choose your Lab and get ready for an exciting session!
+
+
+
 
 ### 🛡️ [Lab 2: Agent Ops](agent-ops/README.md)
 As organizations increasingly adopt agentic platforms, they face new challenges in managing and governing these systems. In this Lab, you will step into the role of an AI Ops engineer at a large financial institution that has recently implemented IBM watsonx Orchestrate. You will review the integration with IBM watsonx.governance to help ensure smooth platform operations while addressing potential risks and governance issues that arise from its use.
